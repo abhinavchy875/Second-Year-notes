@@ -1,0 +1,12 @@
+@relation employee
+@attribute eid numeric
+@attribute name {abhinav,vineet,sparsh,asmita,nitin}
+@attribute salary numeric
+@attribute exp numeric
+@attribute address {patna,noida,delhi,samastipur,ranchi}
+@data
+1,abhinav,40000,2,patna
+2,vineet,25000,1,noida
+3,sparsh,35000,3,delhi
+4,asmita,40000,4,samastipur
+5,nitin,30000,3,ranchi
